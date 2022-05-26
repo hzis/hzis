@@ -20,6 +20,7 @@
   <img align="center" alt="hzis-ShellScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Gnome-terminal.svg">
   <img align="center" alt="hzis-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg">
   <img align="center" alt="hzis-GCP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg">
+  <img align="center" alt="hzis-GCP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">
 </div>
 
 ![Snake animation](https://github.com/hzis/hzis/blob/output/github-contribution-grid-snake.svg)
