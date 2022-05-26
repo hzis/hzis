@@ -17,8 +17,9 @@
   <img align="center" alt="hzis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="hzis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="hzis-shell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shellscript/shellscript-original.svg">
+  <img align="center" alt="hzis-shellscript" height="30" width="40" src="https://www.iconfinder.com/icons/596170/bash_shell_script_sh_icon">
 </div>
-  <img align="center" alt="hzis-shell" height="30" width="40" src="https://www.iconfinder.com/icons/596170/bash_shell_script_sh_icon">
+
 
 
 ![Snake animation](https://github.com/hzis/hzis/blob/output/github-contribution-grid-snake.svg)
