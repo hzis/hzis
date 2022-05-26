@@ -16,8 +16,8 @@
   <img align="center" alt="hzis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hzis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="hzis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="hzis-shell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shellscript/shellscript-original.svg">
   <img align="center" alt="hzis-shellscript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Gnome-terminal.svg">
+  <img align="center" alt="hzis-aws" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg">
 </div>
 
 
