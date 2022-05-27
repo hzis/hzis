@@ -35,7 +35,7 @@
   
 <div>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 </div>
-
 
 ![Snake animation](https://github.com/hzis/hzis/blob/output/github-contribution-grid-snake.svg)
