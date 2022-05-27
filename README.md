@@ -30,4 +30,12 @@
   <img align="center" alt="hzis-GCP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg">
 </div>
 
+
+  ##
+  
+<div>
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+</div>
+
+
 ![Snake animation](https://github.com/hzis/hzis/blob/output/github-contribution-grid-snake.svg)
