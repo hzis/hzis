@@ -44,5 +44,5 @@
 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzis&theme=blue-green">
 </div>
